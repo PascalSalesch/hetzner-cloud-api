@@ -1,0 +1,12 @@
+---
+name: Question
+about: Use this template if you have a question.
+title: "[QUESTION] ?"
+labels: question
+---
+
+<!-- PLEASE ASK YOUR QUESTION, ADD AS MANY DETAILS AS POSSIBLE -->
+
+<!-- DID YOU ALREADY START USING THE PACKAGE? THEN ADD THE PACKAGE AND NODE VERSION -->
+
+<!-- IF YOU FEEL LIKE THIS SHOULD BE ANSWERED IN THE DOCUMENTATION PLEASE ADD THE `documentation` LABEL -->
